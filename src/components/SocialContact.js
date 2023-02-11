@@ -1,6 +1,5 @@
 import React from "react";
 import "./css/socialContact.css";
-// import SocialLinks from "./SocialLinks";
 import { SocialData } from "./SocialMedia";
 
 function SocialContact() {

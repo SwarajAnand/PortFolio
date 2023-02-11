@@ -14,7 +14,6 @@ function Header() {
           <Web />
         </div>
         <div className="mobile-menu">
-          {/* <Mobile /> */}
           <div onClick={() => setIsOpen(!isOpen)}>
             <i class="fi fi-rr-menu-burger menu-icon"></i>
           </div>

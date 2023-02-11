@@ -1,0 +1,29 @@
+.skill-icon{
+    font-size: 80px;
+    display: flex;
+    margin: 18px;
+}
+
+
+@media only screen and (max-width:720px){
+    .skill-icon{
+        font-size: 60px;
+    }
+}
+
+.skill-container{
+    display: flex;
+}
+.skillDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.skill-main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding:12px 0px;
+}

@@ -1,13 +1,11 @@
 import React from "react";
 import "./css/mobile.css";
-import skillImage from "./settings.png";
+import skillImage from "./images/settings.png";
 
 function Mobile({ isOpen, setIsOpen }) {
-  // console.log(isOpen, setIsOpen.value);
   return (
     <div className="mobile">
       <div className="close-icon" onClick={() => setIsOpen(!isOpen)}>
-        {/* <i class="fi fi-rr-cross-circle"></i */}
         <i class="fi fi-rr-menu-burger menu-icon"></i>
       </div>
 

@@ -1,6 +1,6 @@
 import React from "react";
 import "./css/web.css";
-import skillImage from "./settings.png";
+import skillImage from "./images/settings.png";
 
 function Web() {
   return (
