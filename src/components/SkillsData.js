@@ -23,10 +23,10 @@ export const SkillData = [
     name: "Nodejs",
     icon: <i class="devicon-nodejs-plain-wordmark colored"></i>,
   },
-  {
-    name: "Express",
-    icon: <i class="devicon-express-original colored"></i>,
-  },
+  // {
+  //   name: "Express",
+  //   icon: <i class="devicon-express-original colored"></i>,
+  // },
   {
     name: "MongoDB",
     icon: <i class="devicon-mongodb-plain colored"></i>,

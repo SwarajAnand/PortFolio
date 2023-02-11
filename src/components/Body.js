@@ -3,8 +3,8 @@ import "./css/body.css";
 import About from "./About";
 import Projects from "./Projects";
 import Skills from "./Skills";
-import Work from "./Work";
 import Contact from "./Contact";
+import Footer from "./Footer";
 
 function Body() {
   return (
@@ -19,10 +19,10 @@ function Body() {
         <Skills id="skills" />
       </section>
       <section>
-        <Work id="work" />
+        <Contact id="contact" />
       </section>
       <section>
-        <Contact id="contact" />
+        <Footer />
       </section>
     </div>
   );
